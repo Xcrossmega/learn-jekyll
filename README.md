@@ -1,9 +1,7 @@
 # learn-jekyll
 
-## Overview
-I'm gonna learn how to use jekyll, whatever that is.
+## Xziocroft logo
 
+![Xziocroft](image.png)
 
-### History
-I've never done this before
 
