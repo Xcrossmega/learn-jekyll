@@ -1,6 +1,4 @@
-# learn-jekyll
-
-## Xziocroft logo
+# Xziocroft
 
 ![Xziocroft](image.png)
 
